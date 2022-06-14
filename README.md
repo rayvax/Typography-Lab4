@@ -1,2 +1,3 @@
 # Typography-Lab4
- Copying layout 
+This is a work for my university
+Copying layout of https://deeprockgalactic.fandom.com/wiki/Gunner
